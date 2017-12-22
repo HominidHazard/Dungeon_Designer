@@ -26,7 +26,7 @@ Instructions for raspberry pi 3
 Miniconda is not required to run on the raspberry pi 3
 
 Remove pil and reinstall working version
-sudo apt-get purge python3-pil;
+sudo apt-get purge python3-pil
 sudo apt-get install python3-pil python3-pil.imagetk
 sudo apt-get install python3-pandas
 
