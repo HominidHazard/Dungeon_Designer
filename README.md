@@ -66,3 +66,5 @@ https://gist.github.com/uroshekic/11078820
 
 This is code for a class that inherits from tkiner's entry class. It autocompletes text fields, and is used in the spell lookup function.
 
+Special Thanks to: Tara for her artistic assistance and Eric, AJ, and "Brain" for there pythonic expertise. 
+
