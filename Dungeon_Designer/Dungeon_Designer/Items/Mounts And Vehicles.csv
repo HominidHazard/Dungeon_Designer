@@ -1,0 +1,29 @@
+Mount,Camel,50 gp,50 ft.,480 lb.
+Mount,Donkey or mule,8 gp,40 ft.,420 lb.
+Mount,Elephant,200 gp,40 ft.,"1,320 lb."
+Mount,"Horse, draft",50 gp,40 ft.,540 lb.
+Mount,"Horse, riding",75 gp,60 ft.,480 lb.
+Mount,Mastiff,25 gp,40 ft.,195 lb.
+Mount,Pony,30 gp,40 ft.,225 lb.
+Mount,Warhorse,400 gp,60 ft.,540 lb.
+"Tack, Harness, and Drawn Vehicles",Barding,×4,×2,
+"Tack, Harness, and Drawn Vehicles",Bit and bridle,2 gp,1 lb.,
+"Tack, Harness, and Drawn Vehicles",Carriage,100 gp,600 lb.,
+"Tack, Harness, and Drawn Vehicles",Cart,15 gp,200 lb.,
+"Tack, Harness, and Drawn Vehicles",Chariot,250 gp,100 lb.,
+"Tack, Harness, and Drawn Vehicles",Feed (per day),5 cp,10 lb.,
+"Tack, Harness, and Drawn Vehicles",Saddle,,,
+"Tack, Harness, and Drawn Vehicles",Exotic,60 gp,40 lb.,
+"Tack, Harness, and Drawn Vehicles",Military,20 gp,30 lb.,
+"Tack, Harness, and Drawn Vehicles",Pack,5 gp,15 lb.,
+"Tack, Harness, and Drawn Vehicles",Riding,10 gp,25 lb.,
+"Tack, Harness, and Drawn Vehicles",Saddlebags,4 gp,8 lb.,
+"Tack, Harness, and Drawn Vehicles",Sled,20 gp,300 lb.,
+"Tack, Harness, and Drawn Vehicles",Stabling (per day),5 sp,—,
+"Tack, Harness, and Drawn Vehicles",Wagon,35 gp,400 lb.,
+Waterborne Vehicles,Galley,"30,000 gp",4 mph,
+Waterborne Vehicles,Keelboat,"3,000 gp",1 mph,
+Waterborne Vehicles,Longship,"10,000 gp",3 mph,
+Waterborne Vehicles,Rowboat,50 gp,1½ mph,
+Waterborne Vehicles,Sailing ship,"10,000 gp",2 mph,
+Waterborne Vehicles,Warship,"25,000 gp",2½ mph,
